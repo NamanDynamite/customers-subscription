@@ -1,5 +1,6 @@
 # Customer Churn Prediction.
-Detecting which customers are likely to leave a service or to cancel a subscription to a service.
-The model accuracy values for unseen data equal 88%.
-The company was able to retain more than 60% of its customers even after 2 months.
-There is a constant decrease in survival probability between 3-6 months.
+Directing customers to subscription through financial app behavior analysis machine learning project.
+Completed the Machine learning Project successfully with 78.87% accuracy.
+The mean age of the customer is 31.72.
+Only 10.7% of customers played minigame.
+17.2% customer used premium features of the app.
